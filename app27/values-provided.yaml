@@ -1,0 +1,5 @@
+GIT_USERNAME=TBD
+GIT_PASSWORD=TBD
+USER=TBD
+GITOPS_REPOSITORY=https://github.com/xdegenne/gitops-lab-pilotage.git
+GITOPS_TAG=TBD
