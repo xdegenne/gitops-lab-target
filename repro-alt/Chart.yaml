@@ -1,5 +1,0 @@
-apiVersion: v2
-appVersion: v2.4.11
-description: bla bla bla
-name: repro-case
-version: 4.10.9
